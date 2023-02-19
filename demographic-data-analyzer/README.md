@@ -1,4 +1,4 @@
-# demographic-data-analyzer
+# Demographic Data Analyzer
 
 ## Instructions:
 
