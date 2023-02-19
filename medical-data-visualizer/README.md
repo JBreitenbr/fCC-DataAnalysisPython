@@ -9,7 +9,7 @@ The rows in the dataset represent patients and the columns represent information
 
 File name: medical_examination.csv
 
-Feature	Variable Type	Variable	Value Type
+| Feature | Variable Type | Variable |Value Type
 Age	Objective Feature	age	int (days)
 Height	Objective Feature	height	int (cm)
 Weight	Objective Feature	weight	float (kg)
@@ -22,7 +22,7 @@ Smoking	Subjective Feature	smoke	binary
 Alcohol intake	Subjective Feature	alco	binary
 Physical activity	Subjective Feature	active	binary
 Presence or absence of cardiovascular disease	Target Variable	cardio	binary
-Tasks
+### Tasks
 Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
 
 Use the data to complete the following tasks in medical_data_visualizer.py:
