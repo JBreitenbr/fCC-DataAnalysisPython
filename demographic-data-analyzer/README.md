@@ -25,3 +25,6 @@ Identify the most popular occupation for those who earn >50K in India.
 Use the starter code in the file demographic_data_analyzer. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
 Unit tests are written for you under test_module.py.
+
+## My solution is also available on:
+https://replit.com/@JBreitenbr/demographic-data-analyzer?s=app
