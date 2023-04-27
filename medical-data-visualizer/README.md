@@ -42,3 +42,5 @@ Any time a variable is set to None, make sure to set it to the correct code.
 
 Unit tests are written for you under test_module.py.
 
+## My solution is also available on:
+https://replit.com/@JBreitenbr/medical-data-visualizer?s=app
